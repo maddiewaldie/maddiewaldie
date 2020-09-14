@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi, I'm Maddie 👋👩🏼‍💻
+
+<img src = "https://github.com/maddiewaldie/maddiewaldie/blob/master/mwaldie.jpeg" 
+alt = "Madeleine Waldie - Developer, Engineer, and Artist">
+
+## Find me around the web 🌎: 
+* Sharing updates on [Linkedin](https://www.linkedin.com/in/madeleine-waldie/) 💼
+* Taking photos on [Instagram](https://www.instagram.com/madeleine.waldie/) 📷
 
 <!--
 **maddiewaldie/maddiewaldie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
