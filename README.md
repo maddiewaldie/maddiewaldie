@@ -3,7 +3,7 @@
 <img src = "https://github.com/maddiewaldie/maddiewaldie/blob/master/mwaldie.jpeg" 
 alt = "Madeleine Waldie - Developer, Engineer, and Artist">
 
-I'm a current Computer Science & Engineering student at Santa Clara University. 
+I'm a current Computer Science & Engineering student at Santa Clara University, and am a member of the Society of Women Engineers (SWE), the Association for Computing Machinery (ACM), and the Association for Computing Machinery - Women's Chapter (ACM-W).
 
 Advocacy for women in STEM is one of my passions, and over the years I have encouraged other girls to pursue STEM by participating in outreach events, creating workshops, and serving as a role model for younger girls. I was recently chosen as a [National Center for Women and Information Technology Aspirations in Computing (NCWIT)](https://www.aspirations.org/user/128579) national and affiliate awardee for my strong leadership, advocacy, and computing-related achievements. 
 
