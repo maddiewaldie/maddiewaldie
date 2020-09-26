@@ -11,6 +11,10 @@ Advocacy for women in STEM is one of my passions, and over the years I have enco
 * Sharing updates on [Linkedin](https://www.linkedin.com/in/madeleine-waldie/) 💼
 * Taking photos on [Instagram](https://www.instagram.com/madeleine.waldie/) 📷
 
+## Check out my iMessage sticker packs 💬:
+* [Food Allergy Sticker Pack](https://apps.apple.com/us/app/food-allergy-stickers/id1505243773)
+* [Team 1967: Jankster Sticker Pack](https://apps.apple.com/us/app/team-1967-jankster-stickers/id1516750279)
+
 <!--
 **maddiewaldie/maddiewaldie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
