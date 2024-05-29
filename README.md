@@ -17,7 +17,7 @@ Advocating for women in STEM is one of my core passions. Over the years, I've pa
 ### 📱 Projects
 
 #### 📲 Check out my latest iOS app!
-- **[Oral Immunotherapy Tracker](https://apps.apple.com/us/app/oral-immunotherapy-tracker/id6502012518):** Introducing the Oral Immunotherapy Tracker, your personalized companion on the journey to better health through Oral Immunotherapy. Designed exclusively for patients undergoing Oral Immunotherapy, this app harnesses the power of Apple's ecosystem to streamline health tracking, symptom management, and access to educational materials. Empowering you with tailored insights, improved data accuracy, and an intuitive interface, the Oral Immunotherapy Tracker revolutionizes your OIT experience, making health management and overall well-being more accessible and efficient.
+- [Oral Immunotherapy Tracker](https://apps.apple.com/us/app/oral-immunotherapy-tracker/id6502012518)
 
 #### 💬 iMessage Sticker Packs
 - [Food Allergy Sticker Pack](https://apps.apple.com/us/app/food-allergy-stickers/id1505243773)
