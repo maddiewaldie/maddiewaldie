@@ -1,31 +1,48 @@
 # Hi, I'm Maddie 👋👩🏼‍💻
 
-<img src = "https://github.com/maddiewaldie/maddiewaldie/blob/master/mwaldie.jpeg" 
-alt = "Madeleine Waldie - Developer, Engineer, and Artist">
+<img src="https://github.com/maddiewaldie/maddiewaldie/blob/master/mwaldie.jpeg" alt="Madeleine Waldie - Developer, Engineer, and Artist">
 
-I'm a current Computer Science & Engineering student at Santa Clara University, and am a member of the Society of Women Engineers (SWE), the Association for Computing Machinery (ACM), and the Association for Computing Machinery - Women's Chapter (ACM-W).
+I'm Madeleine Waldie, a recent Computer Science & Engineering graduate from Santa Clara University. I’m passionate about software development, advocacy for women in STEM, and continuous learning. 
 
-Advocacy for women in STEM is one of my passions, and over the years I have encouraged other girls to pursue STEM by participating in outreach events, creating workshops, and serving as a role model for younger girls. I was recently chosen as a [National Center for Women and Information Technology Aspirations in Computing (NCWIT)](https://www.aspirations.org/user/128579) national and affiliate awardee for my strong leadership, advocacy, and computing-related achievements. 
+### 🎓 About Me
 
-## Find me around the web 🌎
-* Sharing updates on [Linkedin](https://www.linkedin.com/in/madeleine-waldie/) 💼
-* Taking photos on [Instagram](https://www.instagram.com/madeleine.waldie/) 📷
+- **Graduate** of **Santa Clara University** with a degree in **Computer Science & Engineering**.
+- Active member of **Society of Women Engineers (SWE)**, **Association for Computing Machinery (ACM)**, and **ACM-W**.
+- **NCWIT Aspirations in Computing Awardee** for leadership, advocacy, and computing achievements.
 
-## Check out my iMessage sticker packs 💬
-* [Food Allergy Sticker Pack](https://apps.apple.com/us/app/food-allergy-stickers/id1505243773)
-* [Team 1967: Jankster Sticker Pack](https://apps.apple.com/us/app/team-1967-jankster-stickers/id1516750279)
+### 🌟 My Passions
 
-<!--
-**maddiewaldie/maddiewaldie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Advocating for women in STEM is one of my core passions. Over the years, I've participated in numerous outreach events, created workshops, and served as a role model for younger girls, encouraging them to pursue careers in STEM fields.
 
-Here are some ideas to get you started:
+### 📱 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 📲 Check out my latest iOS app!
+- **[Oral Immunotherapy Tracker](https://apps.apple.com/us/app/oral-immunotherapy-tracker/id6502012518):** Introducing the Oral Immunotherapy Tracker, your personalized companion on the journey to better health through Oral Immunotherapy. Designed exclusively for patients undergoing Oral Immunotherapy, this app harnesses the power of Apple's ecosystem to streamline health tracking, symptom management, and access to educational materials. Empowering you with tailored insights, improved data accuracy, and an intuitive interface, the Oral Immunotherapy Tracker revolutionizes your OIT experience, making health management and overall well-being more accessible and efficient.
+
+#### 💬 iMessage Sticker Packs
+- [Food Allergy Sticker Pack](https://apps.apple.com/us/app/food-allergy-stickers/id1505243773)
+- [Team 1967: Jankster Sticker Pack](https://apps.apple.com/us/app/team-1967-jankster-stickers/id1516750279)
+
+#### 📐 High School Projects
+- [FIRST Robotics Team 1967 Code](https://github.com/FRCTeam1967/FRCTeam1967)
+- [NVIDIA High School Intern Project](https://github.com/NVIDIA-AI-IOT/Gesture-Recognition)
+
+### 🛠️ Skills & Technologies
+- **Languages:** AppleScript, ARM, Assembly, C, C++, CSS, HTML, Java, JavaScript, Objective-C, Python, SQL,
+Swift, TypeScript
+- **Frameworks:** CoreData, DocC, HealthKit, NodeJS, OpenCV, PyTorch, React, TensorFlow, XCTest
+- **UI Frameworks**: AppKit, CareKit, SwiftCharts, SwiftUI, UIKit, XCUITest
+- **Tools:** command-line, Git, Xcode
+- **Platforms:** iOS, Web Development
+
+### 🌍 Find Me Around the Web
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/madeleine-waldie/)
+- 📷 [Instagram](https://www.instagram.com/madeleine.waldie/)
+
+### 📫 Get in Touch
+
+I'm always excited to connect with like-minded individuals and professionals. Feel free to reach out to me for collaborations, networking, or just a friendly chat!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/madeleine-waldie/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-pink?style=flat-square&logo=instagram)](https://www.instagram.com/madeleine.waldie/)
